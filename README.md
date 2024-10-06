@@ -1,4 +1,4 @@
-# User CURD
+# User CRUD
 
 This project is a web application for managing user data, providing CRUD (Create, Read, Update, Delete) operations. The frontend is hosted at `http://127.0.0.1:5500/html/dashboard.html`, and the backend is powered by FastAPI, running on `http://127.0.0.1:8888`.
 
